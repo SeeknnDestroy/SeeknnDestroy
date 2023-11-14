@@ -4,6 +4,8 @@
 
 ### Founding Engineer @ SafeVideoAI | Prompt Engineer
 
+"Every great AI solution begins with a simple question."
+
 ```python
 
 #!/usr/bin/python
@@ -15,8 +17,8 @@ class PromptEngineer:
         self.name = "Talha SARI"
         self.role = "Founding Software Engineer"
         self.values = ["Innovation", "Growth", "Impact"]
-        self.vision = "Contribute to ethical AI solutions for global challenges."
-        self.interests = ["Generative AI", "Applied ML", "DevOps", "AI in Healthcare"]
+        self.vision = "Driving innovation by understanding essence of complex problems."
+        self.expertise = "Mastering the art of prompt engineering"
 
 
     def say_hi(self):
@@ -27,11 +29,9 @@ me.say_hi()
 ```
 
 ## About Me
-
-- 🚀 Leading initiatives in Generative AI and Applied Machine Learning at SafeVideoAI.
-- 🏅 Won 1st place in National **AI in Healthcare Competition** at TEKNOFEST 2022.
-- 💼 Open to collaborate on innovative projects in AI, DevOps, and Cloud Computing.
-- 📚 Currently diving deep into Deep Learning and Generative AI.
-- 📝 I believe in the power of asking the right questions.
-- 🌱 Eager to learn, grow, and contribute significantly to the tech community.
+- 🚀 Leading AI and ML initiatives at SafeVideoAI with a focus on foundational understanding and innovative solutions.
+- 🏆 Winner of the National AI in Healthcare Competition at TEKNOFEST 2022, a testament to my problem-solving skills.
+- 🧠 Skilled in breaking down complex problems to their first principles, facilitating clearer solutions and advancements in AI.
+- 📝 Dedicated to asking the right questions.
+- 🌱 Committed to continuous learning and growth in the rapidly evolving field of AI.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/talhasari/)
