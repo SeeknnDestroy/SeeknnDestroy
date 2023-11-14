@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SeeknnDestroy.SeeknnDestroy)
 
-### Founding Engineer @ SafeVideoAI | Passionate about AI, DevOps, and Growth
+### Founding Engineer @ SafeVideoAI | Prompt Engineer
 
 ```python
 
