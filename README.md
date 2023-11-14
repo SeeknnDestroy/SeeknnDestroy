@@ -20,7 +20,7 @@ class PromptEngineer:
 
 
     def say_hi(self):
-        print("Thanks for dropping by! I'm dedicated to learning, growing, and pushing the boundaries in AI and tech.")
+        print("Thanks for dropping by! I'm dedicated to learning, growing, and pushing the boundaries in AI.")
 
 me = PromptEngineer()
 me.say_hi()
