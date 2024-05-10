@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SeeknnDestroy.SeeknnDestroy)
 
-### Founding Engineer @ SafeVideoAI | Prompt Engineer
+### AI Engineer @ Jetlink | Prompt Engineer
 
 "Every great AI solution begins with a simple question."
 
@@ -15,8 +15,8 @@ class PromptEngineer:
 
     def __init__(self):
         self.name = "Talha SARI"
-        self.role = "Founding Software Engineer"
-        self.values = ["Innovation", "Growth", "Impact"]
+        self.role = "AI Engineer"
+        self.values = ["Learning", "Growth", "Impact"]
         self.vision = "Driving innovation by understanding essence of complex problems."
         self.expertise = "Mastering the art of prompt engineering"
 
@@ -29,7 +29,7 @@ me.say_hi()
 ```
 
 ## About Me
-- 🚀 Leading AI and ML initiatives at SafeVideoAI with a focus on foundational understanding and innovative solutions.
+- 🚀 Leading AI initiatives at Jetlink with a focus on foundational understanding and innovative solutions.
 - 🏆 Winner of the National AI in Healthcare Competition at TEKNOFEST 2022, a testament to my problem-solving skills.
 - 🧠 Skilled in breaking down complex problems to their first principles, facilitating clearer solutions and advancements in AI.
 - 📝 Dedicated to asking the right questions.
