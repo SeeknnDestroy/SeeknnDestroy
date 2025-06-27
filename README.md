@@ -1,37 +1,72 @@
 # Hi there, I'm Talha 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SeeknnDestroy.SeeknnDestroy)
+---
 
-### AI Engineer @ Jetlink | Prompt Engineer
+### Full-Stack AI Engineer | Architecting & Scaling LLM Systems
 
-"Every great AI solution begins with a simple question."
+I'm an AI Engineer passionate about building intelligent, robust, and scalable systems from the ground up. My work spans the entire AI development lifecycle—from fine-tuning multimodal models for complex vision tasks to architecting the foundational microservices, RAG pipelines, and multi-agent systems that power next-generation products.
+
+I thrive on solving complex problems by understanding their first principles and engineering elegant, high-impact solutions.
 
 ```python
-
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class PromptEngineer:
-
+class TalhaSari:
     def __init__(self):
         self.name = "Talha SARI"
         self.role = "AI Engineer"
-        self.values = ["Learning", "Growth", "Impact"]
-        self.vision = "Driving innovation by understanding essence of complex problems."
-        self.expertise = "Mastering the art of prompt engineering"
+        self.current_focus = [
+            "Autonomous Agent Architectures",
+            "High-Performance RAG Systems",
+            "Full-Stack AI Platform Development",
+            "MLOps & Evaluation Frameworks"
+        ]
 
+    def get_key_achievements(self):
+        return {
+            "Open Source Impact": {
+                "Project": "AutoLLM",
+                "Achievement": "Engineered a framework simplifying RAG, achieving 80,000+ downloads."
+            },
+            "Platform Engineering": {
+                "Achievement": "Led the migration of an entire AI platform from a C# monolith to Python microservices.",
+                "Impact": "Cut API latency by ~99% and enabled rapid feature deployment."
+            },
+            "Product Innovation": {
+                "Achievement": "Transformed a simple chatbot into a Multi Agent AI system with dynamic tool use.",
+                "Impact": "Eliminated costly manual integrations, reducing deployment time from weeks to hours."
+            }
+        }
 
-    def say_hi(self):
-        print("Thanks for dropping by! I'm dedicated to learning, growing, and pushing the boundaries in AI.")
+    def __str__(self):
+        return f"Thanks for visiting! I'm focused on building impactful AI. Let's connect."
 
-me = PromptEngineer()
-me.say_hi()
+me = TalhaSari()
+print(me.get_key_achievements()["Open Source Impact"])
 ```
 
-## About Me
-- 🚀 Leading AI initiatives at Jetlink with a focus on foundational understanding and innovative solutions.
-- 🏆 Winner of the National AI in Healthcare Competition at TEKNOFEST 2022, a testament to my problem-solving skills.
-- 🧠 Skilled in breaking down complex problems to their first principles, facilitating clearer solutions and advancements in AI.
-- 📝 Dedicated to asking the right questions.
-- 🌱 Committed to continuous learning and growth in the rapidly evolving field of AI.
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/talhasari/)
+## 🚀 Highlights
+- **Platform Architect:** Spearheaded the ground-up migration of all AI functionalities from a C# monolith to a high-performance, containerized Python microservices platform for a system serving **80+ B2B customers**.
+- **Open Source Creator:** Engineered and launched **[AutoLLM](https://github.com/safevideo/autollm)**, a popular open-source framework that simplifies RAG development, achieving over **80,000 downloads** and **1,000+ GitHub stars**.
+- **Performance Optimizer:** Re-architected a RAG retrieval engine using **Milvus** and an **HNSW** index, slashing search latency by **~99%** (from 500ms to <5ms).
+- **Product Innovator:** Transformed a legacy chatbot into a multi-agent system, replacing a costly manual webhook process with a no-code API framework and cutting client deployment times from weeks to hours.
+- **AI Researcher:** Led R&D on **Vision-Language Models (VLMs)** for automated video analysis and built an **LLM-as-a-Judge** framework to programmatically evaluate model faithfulness and quality.
+- **National Award Winner:**  Led my team to **1st Place** out of 127 teams in the National AI in Healthcare Competition at TEKNOFEST 2022.
+---
+
+### 🛠️ My Tech Stack
+
+*   **Languages:** Python, JavaScript, SQL
+*   **AI/ML:** PyTorch, Computer Vision, Hugging Face, NLP, Prompt Engineering, LLMs, RAG, MCP, AI Agents
+*   **Databases:** MongoDB, Milvus, LanceDB, Supabase
+*   **Cloud & DevOps:** Azure, AWS, Docker, FastAPI, Git, CI/CD, Linux
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing new projects, innovative ideas, or opportunities in AI. Feel free to reach out!
+
+*   **LinkedIn:** [linkedin.com/in/talhasari/](https://www.linkedin.com/in/talhasari/)
+*   **Email:** [talhasarit@gmail.com](mailto:talhasarit@gmail.com)
