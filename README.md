@@ -4,10 +4,6 @@
 
 ### Full-Stack AI Engineer | Architecting & Scaling LLM Systems
 
-I'm an AI Engineer passionate about building intelligent, robust, and scalable systems from the ground up. My work spans the entire AI development lifecycle—from fine-tuning multimodal models for complex vision tasks to architecting the foundational microservices, RAG pipelines, and multi-agent systems that power next-generation products.
-
-I thrive on solving complex problems by understanding their first principles and engineering elegant, high-impact solutions.
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
