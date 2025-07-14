@@ -15,8 +15,7 @@ class TalhaSari:
         self.current_focus = [
             "Autonomous Agent Architectures",
             "High-Performance RAG Systems",
-            "Full-Stack AI Platform Development",
-            "MLOps & Evaluation Frameworks"
+            "Full-Stack AI Platform Development"
         ]
 
     def get_key_achievements(self):
@@ -24,10 +23,6 @@ class TalhaSari:
             "Open Source Impact": {
                 "Project": "AutoLLM",
                 "Achievement": "Engineered a framework simplifying RAG, achieving 80,000+ downloads."
-            },
-            "Platform Engineering": {
-                "Achievement": "Led the migration of an entire AI platform from a C# monolith to Python microservices.",
-                "Impact": "Cut API latency by ~99% and enabled rapid feature deployment."
             },
             "Product Innovation": {
                 "Achievement": "Transformed a simple chatbot into a Multi Agent AI system with dynamic tool use.",
