@@ -13,7 +13,7 @@ class TalhaSari:
         self.name = "Talha SARI"
         self.role = "AI Engineer"
         self.current_focus = [
-            "Autonomous Agent Architectures",
+            "Autonomous Multi-Agent Architectures",
             "High-Performance RAG Systems",
             "Full-Stack AI Platform Development"
         ]
